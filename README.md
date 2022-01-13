@@ -1,4 +1,4 @@
-# FPN-based-diffusuion-based-inpainting-detecion
+# FPN-based-diffusion-based-inpainting-detecion
 # This repo is the code for FPN-based diffusion-based inpainting detection
 Requirements
   python3
